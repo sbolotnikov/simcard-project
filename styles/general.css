@@ -1,0 +1,181 @@
+@font-face {
+  font-family: Lumberjack;
+  src: url('/fonts/lumberjack.inline-rough.otf') format('opentype');
+}
+
+@font-face {
+  font-family: ComicSansMS;
+  src: url('/fonts/Comic Sans MS.ttf');
+}
+@font-face {
+  font-family: SegoePrint;
+  src: url('/fonts/segoeprint.ttf');
+}
+@font-face {
+  font-family: SourceSansPro;
+  src: url('/fonts/SourceSansPro-ExtraLight.ttf');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+/* Animations */
+
+/* variables */
+:root{
+--quests:7;
+}
+
+.inner-wrap_front {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  min-height: 250px;
+  text-align: center;
+}
+.inner-wrap_front h2 {
+  font-family: Lumberjack;
+  height:6rem;
+}
+.inner-wrap_front h3 {
+  font-family: SourceSansPro;
+  font-style: light;
+  font-weight: 300;
+}
+
+.inner-wrap h2 {
+  font-family: Lumberjack;
+  height:6rem;
+}
+.inner-wrap h3 {
+  font-family: SourceSansPro;
+  font-style: light;
+  font-weight: 300;
+}
+
+.containerFont{
+    font-weight: 300;
+    font-style: light;
+    font-family: SourceSansPro;
+}
+
+.containerContacts {
+  width: 100%;
+  max-width: 1170px;
+  margin: auto;
+  padding: 0 1em;
+  font-weight: 300;
+  font-style: light;
+  font-family: SourceSansPro;
+  display: grid;
+  gap: 1em;
+  grid-template-columns: 1fr 2fr;
+}
+
+.borderleft {
+  border-color: rgba(55, 65, 81, 1);
+  border-left-width: 2px;
+  padding-left: 1.5rem;
+}
+
+.btnBlue1{
+    border-width: 2px;
+    border-color:#FFEC00;
+    color: #FFEC00;
+    border-radius: 0.5rem;
+    padding: 0.25rem;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    cursor: pointer;
+}
+.btnBlue {
+  appearance: none;
+  border: none;
+  outline: none;
+  padding: 20px 40px;
+  border-radius: 8px;
+  font-size: 28px;
+  font-weight: 600;
+  margin: 0 15px;
+  cursor: pointer;
+  transition: 0.4s;
+
+  color: #FFEC00;
+  border: 3px solid #FFEC00;
+  background-image: linear-gradient(to top, #FFEC00 50%, transparent 50%);
+  background-size: 100% 200%;
+  background-position: 0% 0%;
+}
+
+.btnBlue:hover {
+  color: #FFF;
+  background-position: 0% 100%;
+}
+
+.btnBlue:active {
+  color: #FFF;
+  background-position: 0% 100%;
+}
+@media screen and (max-width: 767px) {
+    html {
+        font-size: 15px;
+      }
+      #topButton{
+        margin-top: .5rem;
+        width: 95%;
+        font-size: 2rem;
+        flex: none;
+      }
+
+      .borderleft {
+        border-left-width: 0px;
+        padding-left: 0;
+      }
+      .containerContacts {
+        display: block;
+      }
+      .hideOnSmall {
+        display: none;
+      }
+      .flame{
+        width:100px;
+        height:100px;
+        background:linear-gradient(-45deg, #FFEC00, #936B2C ); 
+        border-radius: 100px 100px 0px 100px;
+        transform:rotate(-135deg);
+        animation:.3s flame_sm infinite;
+        filter:blur(10px);
+        position:relative;
+        box-shadow:17px 20px 90px #363303;
+      }
+}
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 20px;
+  }
+  #topButton{
+    padding: 1.5rem;
+    width: 70%;
+    margin-top: 1.5rem;
+    font-size: 1.9rem;
+    flex: none;
+  }
+}
+
+@media screen and (min-width: 981px) {
+
+    #topButton{
+      margin-top: 1.5rem;
+      padding: 1.75rem;
+      width: 70%;
+      flex: none;
+    }
+}
+@media screen and (min-width: 1200px) {
+    html {
+        font-size: 22px;
+      }
+      #topButton{
+        margin-top: 1.5rem;
+        padding: 1.75rem;
+        width: 70%;
+      }
+}

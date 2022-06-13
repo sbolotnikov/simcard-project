@@ -1,0 +1,4155 @@
+{
+    "Success": 1,
+    "message": "Product list",
+    "error": {
+      "foo": "bar"
+    },
+    "data": {
+      "product": [
+        {
+          "_id": "60d439288f19b751ae353f38",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Red-eye effect reduction, Slow motion video, Touch focus, Macro mode, Panorama Photo, Face detection, Smile detection",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": "Panorama Photo, Face detection"
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "10",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": "380 hours",
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": "7 mA",
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL1022 (S8003)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": {},
+              "Head (EU)": {},
+              "Hotspot (USA)": {},
+              "Body (USA)": {},
+              "Head (USA)": {}
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 10",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "32.01 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP, HFP, HID, MAP, PBA",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "AirPlay, Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1690"
+          },
+          "Time": {
+            "Released": "2016-09"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d439298f19b751ae353f3a",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom, 3.0 x digital zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Red-eye effect reduction, Slow motion video, Touch focus, Macro mode, Panorama Photo, Face detection, Smile detection",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": "Face detection"
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "10",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": "380 hours",
+              "Talk Time": "24.0 hours",
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": "7 mA",
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), CDMA 800MHz (BC0, 850), CDMA 1900MHz (BC1/BC14, PCS), CDMA 2100 MHz (BC6), CDMA 1700/2100MHz (BC15, AWS), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), cdmaOne (IS-95), CDMA2000 1xRTT (IS-2000), CDMA2000 1xEV-DO Rel. 0, CDMA2000 1xEV-DO Revision A, TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL1022 (S8003)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.931 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 10",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "32.01 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP, HFP, HID, MAP, PBA",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "AirPlay, Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1699"
+          },
+          "Time": {
+            "Released": "2016-09"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d439298f19b751ae353f3b",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom, 3.0 x digital zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Red-eye effect reduction, Slow motion video, Touch focus, Macro mode, Panorama Photo, Face detection, Face tagging, Smile detection",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": "Face detection"
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "10",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": "380 hours",
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": "7 mA",
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL0898 (S8000)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": {},
+              "Head (EU)": {},
+              "Hotspot (USA)": {},
+              "Body (USA)": {},
+              "Head (USA)": {}
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.1",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "16.01 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP, HFP, MAP, PBA",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "AirPlay, Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1690"
+          },
+          "Time": {
+            "Released": "2015-11"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d4392b8f19b751ae353f42",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Red-eye effect reduction, Slow motion video, Touch focus, Macro mode, Panorama Photo, Face detection, Face tagging, Smile detection",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": "Face detection"
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "10",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": "380 hours",
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": "7 mA",
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL0898 (S8000)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": {},
+              "Head (EU)": {},
+              "Hotspot (USA)": {},
+              "Body (USA)": {},
+              "Head (USA)": {}
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.1",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "128.05 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP, HFP, HID, MAP, PBA",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "AirPlay, Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1690"
+          },
+          "Time": {
+            "Released": "2015-11"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d439928f19b751ae3540dd",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Slow motion video, Macro mode, Panorama Photo",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "Multi touch",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": {},
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": {},
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": {},
+              "Voltage": {},
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), CDMA 800MHz (BC0, 850), CDMA 1900MHz (BC1/BC14, PCS), CDMA 2100 MHz (BC6), CDMA 1700/2100MHz (BC15, AWS), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), cdmaOne (IS-95), CDMA2000 1xRTT (IS-2000), CDMA2000 1xEV-DO Rel. 0, CDMA2000 1xEV-DO Revision A, TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 150 Mbps / 50 Mbps (Cat. 4) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL1022 (S8003)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.931 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 10",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "32.01 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1687"
+          },
+          "Time": {
+            "Released": "2016-09-08"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d439a18f19b751ae354117",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom, 3.0 x digital zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Red-eye effect reduction, Slow motion video, Touch focus, Macro mode, Panorama Photo, Face detection, Face tagging, Smile detection",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": "Face detection"
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "10",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": "380 hours",
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": "7 mA",
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.51 Wh",
+              "Voltage": "3.82 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), LTE 2300 MHz (Band 30), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL1022 (S8003)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.940 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 10",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "32.01 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP, HFP, HID, MAP, PBA",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1634"
+          },
+          "Time": {
+            "Released": "2016-09"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d43ae58f19b751ae35461d",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom, 3.0 x digital zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Red-eye effect reduction, Slow motion video, Touch focus, Macro mode, Panorama Photo, Face detection, Face tagging, Smile detection",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": "Panorama Photo, Face detection"
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "10",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": "380 hours",
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": "7 mA",
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL0898 (S8000)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": {},
+              "Head (EU)": {},
+              "Hotspot (USA)": {},
+              "Body (USA)": {},
+              "Head (USA)": {}
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.1",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "64.03 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP, HFP, HID, MAP, PBA",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "AirPlay, Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1690"
+          },
+          "Time": {
+            "Released": "2015-11"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d43b0b8f19b751ae3546b3",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Slow motion video, Macro mode, Panorama Photo",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "Multi touch",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": {},
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": {},
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), CDMA 800MHz (BC0, 850), CDMA 1900MHz (BC1/BC14, PCS), CDMA 2100 MHz (BC6), CDMA 1700/2100MHz (BC15, AWS), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), cdmaOne (IS-95), CDMA2000 1xRTT (IS-2000), CDMA2000 1xEV-DO Rel. 0, CDMA2000 1xEV-DO Revision A, TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 150 Mbps / 50 Mbps (Cat. 4) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL1022 (S8003)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.931 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.0",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "128.05 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1687"
+          },
+          "Time": {
+            "Released": "2015-09-26"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d43b1a8f19b751ae3546f0",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Slow motion video, Macro mode, Panorama Photo",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "Multi touch",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": {},
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": {},
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), LTE 2300 MHz (Band 30), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 150 Mbps / 50 Mbps (Cat. 4) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL0898 (S8000)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.940 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.0",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "128.05 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1634"
+          },
+          "Time": {
+            "Released": "2015-09-26"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d43b1d8f19b751ae3546fc",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom, 3.0 x digital zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Red-eye effect reduction, Slow motion video, Touch focus, Macro mode, Panorama Photo, Face detection, Smile detection",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": "Face detection"
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "10",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": "380 hours",
+              "Talk Time": "24.0 hours",
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": "7 mA",
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), CDMA 800MHz (BC0, 850), CDMA 1900MHz (BC1/BC14, PCS), CDMA 2100 MHz (BC6), CDMA 1700/2100MHz (BC15, AWS), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), cdmaOne (IS-95), CDMA2000 1xRTT (IS-2000), CDMA2000 1xEV-DO Rel. 0, CDMA2000 1xEV-DO Revision A, TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL0898 (S8000)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.931 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.0.1",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "64.03 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP, HFP, HID, MAP, PBA",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "AirPlay, Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1699"
+          },
+          "Time": {
+            "Released": "2015-09-26"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d43b1f8f19b751ae354703",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom, 3.0 x digital zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Red-eye effect reduction, Slow motion video, Touch focus, Macro mode, Panorama Photo, Face detection, Face tagging, Smile detection",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": "Face detection"
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "10",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": "380 hours",
+              "Talk Time": "24.0 hours",
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": "7 mA",
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), CDMA 800MHz (BC0, 850), CDMA 1900MHz (BC1/BC14, PCS), CDMA 2100 MHz (BC6), CDMA 1700/2100MHz (BC15, AWS), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), cdmaOne (IS-95), CDMA2000 1xRTT (IS-2000), CDMA2000 1xEV-DO Rel. 0, CDMA2000 1xEV-DO Revision A, TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL0898 (S8000)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.931 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.0.1",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "16.01 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP, HFP, HID, MAP, PBA",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "AirPlay, Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1699"
+          },
+          "Time": {
+            "Released": "2015-09-26"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d43b258f19b751ae354719",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom, 3.0 x digital zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Red-eye effect reduction, Slow motion video, Touch focus, Macro mode, Panorama Photo, Face detection, Smile detection",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": "Face detection"
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "10",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": "380 hours",
+              "Talk Time": "24.0 hours",
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": "7 mA",
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), CDMA 800MHz (BC0, 850), CDMA 1900MHz (BC1/BC14, PCS), CDMA 2100 MHz (BC6), CDMA 1700/2100MHz (BC15, AWS), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), cdmaOne (IS-95), CDMA2000 1xRTT (IS-2000), CDMA2000 1xEV-DO Rel. 0, CDMA2000 1xEV-DO Revision A, TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL0898 (S8000)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.931 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.0.1",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "128.05 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP, HFP, HID, MAP, PBA",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "AirPlay, Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1699"
+          },
+          "Time": {
+            "Released": "2015-09-26"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d43b258f19b751ae35471c",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Slow motion video, Macro mode, Panorama Photo",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "Multi touch",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": {},
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": {},
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), CDMA 800MHz (BC0, 850), CDMA 1900MHz (BC1/BC14, PCS), CDMA 2100 MHz (BC6), CDMA 1700/2100MHz (BC15, AWS), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), cdmaOne (IS-95), CDMA2000 1xRTT (IS-2000), CDMA2000 1xEV-DO Rel. 0, CDMA2000 1xEV-DO Revision A, TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 150 Mbps / 50 Mbps (Cat. 4) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL1022 (S8003)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.931 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.0",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "64.03 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1687"
+          },
+          "Time": {
+            "Released": "2015-09-26"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d43b278f19b751ae354724",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Slow motion video, Macro mode, Panorama Photo",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "Multi touch",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": {},
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": {},
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), CDMA 800MHz (BC0, 850), CDMA 1900MHz (BC1/BC14, PCS), CDMA 2100 MHz (BC6), CDMA 1700/2100MHz (BC15, AWS), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), cdmaOne (IS-95), CDMA2000 1xRTT (IS-2000), CDMA2000 1xEV-DO Rel. 0, CDMA2000 1xEV-DO Revision A, TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 150 Mbps / 50 Mbps (Cat. 4) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL1022 (S8003)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.931 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.0",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "16.01 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1687"
+          },
+          "Time": {
+            "Released": "2015-09-26"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d43b2c8f19b751ae354738",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Slow motion video, Macro mode, Panorama Photo",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "Multi touch",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": {},
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": {},
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), LTE 2300 MHz (Band 30), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 150 Mbps / 50 Mbps (Cat. 4) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL0898 (S8000)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.940 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.0",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "16.01 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1634"
+          },
+          "Time": {
+            "Released": "2015-09-26"
+          },
+          "Category": "smartphone"
+        },
+        {
+          "_id": "60d43b2d8f19b751ae35473c",
+          "Camera": {
+            "Back Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "12.0 MP",
+              "Resolution (H x W)": "4000x3000 pixel",
+              "Video Resolution": "3840x2160 pixel, 30 fps",
+              "Equivalent Focal Length": {},
+              "Minimum Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (T)": {},
+              "Aperture (W)": "f/2.20",
+              "Zoom": "1.0 x optical zoom",
+              "Sensor Format": "1/3.00",
+              "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), HDR photo, HDR video, Slow motion video, Macro mode, Panorama Photo",
+              "Flash": "single LED",
+              "Focus": "Contrast Detection Autofocus (CD AF)",
+              "Image Format": "JPG",
+              "Video Format": "3G2"
+            },
+            "Back Camera II": {
+              "Module": {},
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Sensor Format": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera III": {
+              "Sensor": {},
+              "Equivalent Focal Length": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Sensor Format": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Back Camera IV": {
+              "Sensor": {},
+              "Resolution": {},
+              "Equivalent Focal Length": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Features": {},
+              "Focus": {}
+            },
+            "Back Camera V": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera": {
+              "Module": {},
+              "Sensor": "BSI CMOS",
+              "Resolution": "5.0 MP",
+              "Minimum Focal Length": {},
+              "Resolution (H x W)": "2592x1944 pixel",
+              "Video Resolution": "1280x720 pixel, 30 fps",
+              "Pixel Size": {},
+              "Aperture (W)": "f/2.20",
+              "Sensor Format": {},
+              "Image Format": "JPG",
+              "Video Format": "3G2",
+              "Flash": {},
+              "Focus": {},
+              "Features": {}
+            },
+            "Front Camera II": {
+              "Sensor": {},
+              "Resolution": {},
+              "Pixel Size": {},
+              "Aperture (W)": {}
+            },
+            "Front Camera III": {
+              "Sensor": {},
+              "Resolution": {},
+              "Aperture (W)": {}
+            }
+          },
+          "Design": {
+            "Height": "158.2 mm, 6.23 inch",
+            "Width": "77.9 mm, 3.07 inch",
+            "Thickness": "7.3 mm, 0.29 inches",
+            "Weight": "192 g, 6.77 ounces",
+            "Color(s)": "Space Gray, Silver, Gold, Rose Gold",
+            "IP Rating": {},
+            "Keyboard": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            },
+            "Keyboard II": {
+              "Design": {},
+              "Backlight": {},
+              "Keys": {}
+            }
+          },
+          "Display": {
+            "Puch holes(s)": {},
+            "Notch(es)": {},
+            "Diagonal": "139.7 mm, 5.5 inch",
+            "Height": "121.76 mm, 4.79 inch",
+            "Width": "68.49 mm, 2.7 inch",
+            "Bezel Width": "9.41 mm, 0.37 inch(es)",
+            "Screen to Body Ratio": "67.7%",
+            "Refresh Rate": {},
+            "Resolution (H x W)": "1080x1920",
+            "Pixel Size": "0.06342 mm/pixel",
+            "Dynamic Range": "8 bit",
+            "Color Depth": "24 bit",
+            "Pixel Density": "401 PPI",
+            "Number of Colors": "16.8M",
+            "Glass": "The data will be added soon.",
+            "Illumination": "LED",
+            "LCD Mode": "The data will be added soon.",
+            "Module": {},
+            "Subpixels": "RGB Matrix (3 subpixels)",
+            "Touch Points": {},
+            "Touch Point(s)": "Multi touch",
+            "Touch screen Type": "Pressure",
+            "Type": "Retina Display",
+            "Screen": {
+              "Module": {},
+              "Type": {},
+              "Diagonal": {},
+              "Height": {},
+              "Width": {},
+              "Number of Colors": {},
+              "Resolution (H x W)": {},
+              "Pixel Density": {},
+              "Color Depth": {},
+              "Dynamic Range": {},
+              "Pixel Size": {},
+              "Glass": {},
+              "Illumination": {},
+              "LCD Mode": {},
+              "Subpixels": {}
+            }
+          },
+          "Inside": {
+            "Battery": {
+              "Type": "Lithium-ion — 1 cell",
+              "Style": "Non Removable",
+              "Capacity": "2750 mAh",
+              "Cell I": "2750 mAh",
+              "Cell II": {},
+              "Standby Time": {},
+              "Talk Time": {},
+              "Life": "12.0 hours",
+              "Current": "229 mA",
+              "Standby Current Consumption": {},
+              "Wireless Charging Power": {},
+              "Charging Power": {},
+              "Energy": "10.45 Wh",
+              "Voltage": "3.80 Volts",
+              "Power IC": {},
+              "Wireless Charging": {}
+            },
+            "Cellular": {
+              "Dual Sim Type": {},
+              "SIM Module": "Qualcomm MDM9635M",
+              "SIM Slot": "Nano-SIM (4FF)",
+              "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), TD-SCDMA 2000 MHz (B34), TD-SCDMA 1900 MHz (B39), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 700 MHz (Band 17), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 850 MHz (Band 26), LTE 800 MHz (Band 27), LTE 700 MHz (Band 28), LTE 700 MHz (Band 29), LTE 2300 MHz (Band 30), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI) bands",
+              "SIM Mobile Data": "GPRS (Class unspecified), EDGE (Class unspecified), UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), TD-SCDMA, TD-HSDPA, LTE (Cat. unspecified), LTE 150 Mbps / 50 Mbps (Cat. 4) data links",
+              "SIM II Module": {},
+              "SIM II Slot": {},
+              "SIM II Frequencies": {},
+              "SIM II Mobile Data": {}
+            },
+            "Location": {
+              "Module": "Apple A9",
+              "Parallel GPS Channels": {},
+              "Navigation": "GPS, GLONASS",
+              "GPS": {},
+              "Galileo": {},
+              "BeiDou": {},
+              "GLONASS": {},
+              "GPS Feature(s)": {}
+            },
+            "Processor": {
+              "CPU": "Apple A9 APL0898 (S8000)",
+              "CPU Clock Speed": "1820 MHz",
+              "GPU": "PowerVR GT7600",
+              "GPU Clock Speed": {},
+              "GPU Dedicated Memory": {},
+              "GPU Framebuffer": {}
+            },
+            "RAM": {
+              "Module": {},
+              "Capacity": "2.15 GB",
+              "Type": "mobile (LP) DDR4 SDRAM",
+              "Clock Speed": {}
+            },
+            "SAR": {
+              "Body (EU)": "1.140 W/kg",
+              "Head (EU)": "0.940 W/kg",
+              "Hotspot (USA)": {},
+              "Body (USA)": "1.130 W/kg",
+              "Head (USA)": "1.120 W/kg"
+            },
+            "Sensor(s)": {
+              "Present": "Barometer, Fingerprint sensor, Light intensity sensor, Proximity sensor, Accelerometer, Compass, Gyroscope ",
+              "Sensor(s)": {},
+              "Accelerometer": {},
+              "Compass": {},
+              "Gyroscope": {},
+              "Barcode Scanners": {}
+            },
+            "Software": {
+              "OS": "Apple iOS / iPadOS",
+              "OS Version": "Apple iOS 9.0",
+              "Kernel Version": {}
+            },
+            "Storage": {
+              "Module": {},
+              "Type": "Flash EEPROM",
+              "Capacity I": "64.03 GB",
+              "Capacity II": {},
+              "Capacity III": {},
+              "Capacity": "16 GB, 32 GB, 64 GB, 128 GB",
+              "Bus Speed": {},
+              "Expansion": {}
+            },
+            "Wireless": {
+              "Bluetooth Module": {},
+              "Bluetooth Version": " 4.2",
+              "Bluetooth Profiles": "A2DP, AVRCP",
+              "WLAN Module": {},
+              "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac",
+              "WMAN": {},
+              "WiFi Feature(s)": "Wi-Fi Calling (UMA)",
+              "Experience(s)": "FM Radio, NFC",
+              "FM Radio": {},
+              "FM Radio Transmitter": {},
+              "Infrared": {},
+              "Analog TV": {},
+              "NFC": {},
+              "Digital TV": {}
+            }
+          },
+          "Product": {
+            "Brand": "Apple",
+            "Model": "Apple iPhone 6s Plus",
+            "Version": "A1634"
+          },
+          "Time": {
+            "Released": "2015-09-26"
+          },
+          "Category": "smartphone"
+        }
+      ]
+    }
+  }

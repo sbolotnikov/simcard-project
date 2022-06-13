@@ -1,0 +1,104 @@
+{
+    "Success": 1,
+    "message": "product matched",
+    "error": {
+      "foo": "bar"
+    },
+    "data": {
+      "results": [
+        {
+          "image_back": {
+            "raw": "https://i-techspecs-io.s3.amazonaws.com/Apple_iPhone_6s_PlusA1687_back_back1.png"
+          },
+          "model": {
+            "raw": "Apple iPhone 6s Plus"
+          },
+          "image_front": {
+            "raw": "https://i-techspecs-io.s3.amazonaws.com/Apple_iPhone_6s_PlusA1687_front_front1.png"
+          },
+          "category": {
+            "raw": "smartphone"
+          },
+          "brand": {
+            "raw": "Apple"
+          },
+          "version": {
+            "raw": "A1687"
+          },
+          "_meta": {
+            "score": 101.708954,
+            "id": "60d43b258f19b751ae35471c"
+          }
+        },
+        {
+          "image_back": {
+            "raw": "https://i-techspecs-io.s3.amazonaws.com/Motorola_MING_A1680A1680_back_back1.png"
+          },
+          "model": {
+            "raw": "Motorola MING A1680"
+          },
+          "image_front": {
+            "raw": "https://i-techspecs-io.s3.amazonaws.com/Motorola_MING_A1680A1680_front_front1.png"
+          },
+          "category": {
+            "raw": "smartphone"
+          },
+          "brand": {
+            "raw": "Motorola"
+          },
+          "version": {
+            "raw": "A1680"
+          },
+          "_meta": {
+            "score": 7.460819,
+            "id": "60d4404a8f19b751ae355b2b"
+          }
+        },
+        {
+          "image_back": {
+            "raw": "https://i-techspecs-io.s3.amazonaws.com/Apple_iPhone_4sA1387_frontback_frontback3.png"
+          },
+          "model": {
+            "raw": "Apple iPhone 4s"
+          },
+          "image_front": {
+            "raw": "https://i-techspecs-io.s3.amazonaws.com/Apple_iPhone_4sA1387_frontback_frontback2.png"
+          },
+          "category": {
+            "raw": "smartphone"
+          },
+          "brand": {
+            "raw": "Apple"
+          },
+          "version": {
+            "raw": "A1387"
+          },
+          "_meta": {
+            "score": 7.3835626,
+            "id": "60d43e4a8f19b751ae35536e"
+          }
+        },
+        {
+          "model": {
+            "raw": "Apple iPhone 6s"
+          },
+          "image_front": {
+            "raw": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/910201511527AM_635_apple_iphone_6s.jpeg_frontback.jpg"
+          },
+          "category": {
+            "raw": "smartphone"
+          },
+          "brand": {
+            "raw": "Apple"
+          },
+          "version": {
+            "raw": "A1688"
+          },
+          "_meta": {
+            "score": 7.3835626,
+            "id": "60d439938f19b751ae3540df"
+          }
+        }
+      ]
+    }
+  }
