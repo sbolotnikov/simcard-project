@@ -19,13 +19,13 @@ const Login = ({ session }) => {
     if (Router.query.error) {
       console.log(Router.query.error)
       let errText="";
-      (Router.query.error=="OAuthAccountNotLinked")? errText="Для подтверждения вашей идентичности пользуйтесь только одним методом входа!":errText=Router.query.error
+      (Router.query.error=="OAuthAccountNotLinked")? errText="To confirm your identity, please use one method only!":errText=Router.query.error
       setAlertStyle({
         variantHead: 'danger',
-        heading: 'Ошибка регистрации',
+        heading: 'Registration Error',
         text: `${errText}`,
         color1: 'secondary',
-        button1: 'Подтвердить',
+        button1: 'Confirm',
         color2: '',
         button2: '',
       });
@@ -54,7 +54,7 @@ const Login = ({ session }) => {
           className="text-center font-bold uppercase"
           style={{ color: 'whitesmoke', letterSpacing: '1px' }}
         >
-          Вход
+          Enter
         </h2>
 
         <BtnLogin
@@ -62,8 +62,8 @@ const Login = ({ session }) => {
           bgColor="gray"
           options={{ redirect: false, email, password }}
         >
-          <div className="flex flex-col items-center p-3 bg-popup rounded-t-md bottom-0">
-            <label>Адрес эл. почты</label>
+          <div className="flex flex-col items-center p-3 bg-black/20 rounded-t-md bottom-0">
+            <label>Email Address</label>
             <input
               type="email"
               name="email"
@@ -74,7 +74,7 @@ const Login = ({ session }) => {
               onChange={(e) => setEmail(e.target.value)}
             />
 
-            <label htmlFor="password">Пароль</label>
+            <label htmlFor="password">Password</label>
             <input
               type="password"
               id="password"
@@ -87,23 +87,23 @@ const Login = ({ session }) => {
           </div>
         </BtnLogin>
 
-        <div className="text-center">✦ или ✦</div>
+        <div className="text-center">✦ or ✦</div>
         <div>
-          <BtnLogin provider={'google'} bgColor="#f2573f" />    
+          <BtnLogin provider={'google'} bgColor="gray" />    
         </div>
-        <div className="text-center">✦ или ✦</div>
+        <div className="text-center">✦ or ✦</div>
         <BtnLogin
           provider={'email'}
-          bgColor="#22b05b"
+          bgColor="gray"
           options={{ redirect: false, email: email2 }}
         >
-          <div className="flex flex-col items-center p-3 bg-main-bg bottom-0">
-            <label htmlFor="email">Вход через ваш эл. адрес</label>
+          <div className="flex flex-col items-center p-3 bg-black/20 rounded-t-md bottom-0">
+            <label htmlFor="email">Enter with email</label>
             <input
               type="email"
               id="email2"
               name="email2"
-              className="flex-1 outline-none border-none rounded-sm bg-main-bg p-0.5 mx-1"
+              className="flex-1 outline-none border-none rounded-md p-0.5 mx-1"
               placeholder="email@example.com"
               required
               value={email2}
@@ -111,7 +111,7 @@ const Login = ({ session }) => {
             />
           </div>
         </BtnLogin>
-        <h4 className="w-full">Новые пользователи могут зайти через Гугл или получить ссылку для входа на почту</h4>
+        <h4 className="w-full">New users may login thru Google or get the link thru email.</h4>
       </div>
       
     </div>

@@ -78,7 +78,7 @@ const BtnLogin = ({children, provider, bgColor, txtColor, options}) => {
 
       <button type="submit" className="w-full button rounded-b-md" 
       style={{ background: `${bgColor}`, color: `${txtColor}`}}>
-        Вход {(provider=='credentials')?'обычный':(provider=='google')?'через Гугл':"через почту"}
+        Enter {(provider=='credentials')?'common':(provider=='google')?'thru Google':"thru email"}
       </button>
 
       
