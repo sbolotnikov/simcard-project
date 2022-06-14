@@ -1,5 +1,5 @@
 import Navbar from './navbar';
-import Footer from '../components/footer';
+import Footer from './footer';
 import Head from "next/head";
 import { useSession } from "next-auth/react";
 import { useRouter } from 'next/router';

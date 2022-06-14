@@ -68,11 +68,11 @@ function user_screen() {
     <div className="w-full flex justify-center items-center">
         {revealAlert && <AlertMenu onReturn={onReturn} styling={alertStyle} />}
       <div className="w-full max-w-[1000px] flex flex-row justify-center items-center flex-wrap">
-        <h3 className="w-full xs:text-md sm:text-xl  text-center">
+        <h3 className="w-full text-md sm:text-xl  text-center">
           {/* Информация о пользователях */}
           User Status Information
           </h3>
-          <h5 className="w-full xs:text-md sm:text-lg text-center"> 
+          <h5 className="w-full text-md sm:text-lg text-center"> 
           {/* фильтр: */}Filter:
           <div
             className="relative cursor-pointer"

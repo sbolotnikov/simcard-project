@@ -45,12 +45,12 @@ function GetLocation(props) {
           >
             <div
               key={`inner-loc-${index}`}
-              className="grid xs:grid-cols-1  sm:grid-cols-4 md:grid-cols-4  rounded-r  h-full border-2 border-gray-700 max-w-xs bg-popup p-2"
+              className="grid grid-cols-1  sm:grid-cols-4 md:grid-cols-4  rounded-r  h-full border-2 border-gray-700 max-w-xs bg-popup p-2"
               value={index}
             >
               <div
                 key={`text-loc-${index}`}
-                className="xs:col-span-1 sm:col-span-3 md:col-span-3 text-left whitespace-normal"
+                className="col-span-1 sm:col-span-3 md:col-span-3 text-left whitespace-normal"
                 value={index}
               >
                 <h4
