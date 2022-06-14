@@ -43,15 +43,15 @@ function user_screen() {
         // heading: 'Предупреждение',
         // text: `Вы точно хотите удалить запись о ${e.name}?`,
         color1: 'danger',
-        button1: 'Подтвердить',
+        button1: 'Confirm',
         color2: 'secondary',
-        button2: 'Отмена',
+        button2: 'Cancel',
       });
       setRevealAlert(true);
   }
   const onReturn = async (decision1) => {
     setRevealAlert(false);
-    if (decision1 == 'Подтвердить') {
+    if (decision1 == 'Confirm') {
       const res = await fetch('/api/supervise/del_user', {
         method: 'POST',
         headers: {
