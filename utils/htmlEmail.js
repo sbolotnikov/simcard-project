@@ -14,18 +14,18 @@ export function html({ url, host, email }) {
       
       <h3 style="text-align: center; text-transform: uppercase;">${escapedHost}</h3>
       
-      <p>Поздравляю! Вы зарегистрировались с эл. адресом <strong>${escapedEmail}</strong>.
-      Нажмите кнопку для входа.
+      <p>Congratulation! You are registered with email address: <strong>${escapedEmail}</strong>.
+      To enter please click the button.
       
       </p>
       
       <a href=${url} target="_blank" style="background: crimson; text-decoration: none; color: white; padding: 1rem 3rem; margin: 10px 0; display: inline-block;">Sign in with Email</a>
-      <p>Если кнопка не работает, то используйте ссылку для входа на сайт.</p>
+      <p>If button does not work use this URL:</p>
       <div>${url}</div>
       </div>
     `
   }
   
   export function text({ url, host }) {
-    return `Ссылка для входа ${host}\n${url}\n\n`
+    return `URL to enter ${host}\n${url}\n\n`
   }

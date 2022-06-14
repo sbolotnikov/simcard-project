@@ -50,7 +50,7 @@ function contacts(props) {
                   // Options.
                   options={{
                     iconLayout: 'default#image',
-                    iconImageHref: '/images/logo.png',
+                    iconImageHref: '/images/logo.svg',
                     iconImageSize: [60, 84],
                     iconImageOffset: [-26, -44],
                     // The placemark's icon will stretch to fit its contents.

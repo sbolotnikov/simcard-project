@@ -118,6 +118,8 @@ const profile = ({ session }) => {
         className="border-0 rounded-md max-auto p-4 shadow max-w-[450px] w-full m-3"
         style={{ boxShadow: '0 0 150px rgb(255 236 0 / 50%)'}}
       >
+      <form onSubmit={handleSubmit}>
+
         <h2
           className="text-center fw-bolder text-uppercase"
           style={{ color: 'whitesmoke', letterSpacing: '1px' }}
@@ -149,23 +151,10 @@ const profile = ({ session }) => {
             />
           </div>
         </h2>
-        <form onSubmit={handleSubmit}>
-          <label className="flex flex-col items-center p-3 bg-popup rounded-t-md bottom-0">
-            {/* Ваше имя: */}
-            Your Name
-            <input
-              id="userName"
-              className="flex-1 outline-none border-none rounded-md bg-main-bg p-0.5 mx-1"
-              type="text"
-              ref={userNameRef}
-              defaultValue={session.user.name}
-              placeholder="Input your Name"
-              // placeholder="Введите Имя"
-            />
-          </label>
-          {revealCloud && (
+       
+        {revealCloud && (
             <label
-              className="flex flex-col items-center bg-popup rounded-t-md bottom-0 border border-gray-100 m-1 p-1 rounded-md"
+              className=" flex flex-col items-center bg-black/20  bottom-0 border border-gray-100 m-1 p-1 rounded-md"
               id="userURL"
             >
               {/* Изменить линк */}
@@ -179,14 +168,28 @@ const profile = ({ session }) => {
                 defaultValue={session.user.image}
               />
               {/* Загрузить файл */}
-              Upload file
+              Or
               <Cloudinary
                 style={{ width: '200px', objectFit: 'cover', margin: '10px' }}
                 getImgUrl={getImgUrl}
               />
             </label>
           )}
-          <label className="flex flex-col items-center p-3 bg-popup rounded-t-md bottom-0">
+          <label className="flex flex-col items-center p-3 bg-black/20 rounded-t-md bottom-0">
+            {/* Ваше имя: */}
+            Your Name
+            <input
+              id="userName"
+              className="flex-1 outline-none border-none rounded-md bg-main-bg p-0.5 mx-1"
+              type="text"
+              ref={userNameRef}
+              defaultValue={session.user.name}
+              placeholder="Input your Name"
+              // placeholder="Введите Имя"
+            />
+          </label>
+
+          <label className="flex flex-col items-center p-3 bg-black/20 bottom-0">
             {/* Адрес эл. почты */}
             Email
             <input
@@ -198,7 +201,7 @@ const profile = ({ session }) => {
               defaultValue={session.user.email}
             />
           </label>
-          <label className="flex flex-col items-center p-3 bg-popup rounded-t-md bottom-0">
+          <label className="flex flex-col items-center p-3 bg-black/20 bottom-0">
             {/* Пароль */}
             Password
             <input
@@ -210,7 +213,7 @@ const profile = ({ session }) => {
               //  placeholder="Не нужен пароль, оставьте бланк"
             />
           </label>
-          <label className="flex flex-col items-center p-3 bg-popup rounded-t-md bottom-0">
+          <label className="flex flex-col items-center p-3 bg-black/20 rounded-b-md bottom-0">
             {/* Подтвердить пароль */}
             Confirm Password
             <input

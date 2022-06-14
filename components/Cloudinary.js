@@ -5,8 +5,9 @@ const { publicRuntimeConfig } = getConfig();
 
 function Cloudinary(props) {
     // handles cloudinary upload and providing the link for a parent component
-    const [imageSelected, setImageSelected]=useState('');
-    const pictureUpload=(event)=> {
+    
+    const pictureUpload=(event, imageSelected)=> {
+        console.log(event.target, imageSelected)
        const formData= new FormData();
        formData.append('file', imageSelected);
        console.log(publicRuntimeConfig.cloudPreset)
@@ -16,19 +17,19 @@ function Cloudinary(props) {
            formData
        )
        .then(response=>{
-        setImageSelected("");
+        
         console.log(response.data.url)
         console.log(event.target.parentElement.previousSibling.value)
-        event.target.parentElement.previousSibling.value=""; 
+        event.target.value="";  
         props.getImgUrl(response.data.url);
         })
-        .catch(e=>{console.log('Fail to upload image')})
+        .catch(e=>{console.log(e, 'Fail to upload image')})
     }
 
     return(
         <div className="w-full flex flex-col justify-center items-center " >
-            <input type='file' className='w-full border-0 m-2 rounded-md' onChange={(event)=>setImageSelected(event.target.files[0])}/>
-            <div className="w-full m-3 p-1 text-sm border text-center rounded-lg navbar__item" onClick={(e)=>{pictureUpload(e)}}>Сохранить</div>
+            <input type='file' id="selectImage" hidden className='w-full border-0 m-2 rounded-md' onChange={(event)=>{pictureUpload(event, event.target.files[0])}}/>
+            <div className="w-full m-3 p-1 text-sm border text-center rounded-lg navbar__item" onClick={()=>{document.getElementById("selectImage").click()}}>Upload file</div>
         </div>
     )
 }

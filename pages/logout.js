@@ -11,18 +11,18 @@ function logout() {
       if (!session) return router.push('/');
       setAlertStyle({
         variantHead: 'danger',
-        heading: 'Внимание!',
-        text: `Вы действительно хотитте выйти?`,
+        heading: 'Attention!',
+        text: `You are about to log off?`,
         color1: 'danger',
-        button1: 'Подтвердить',
+        button1: 'Confirm',
         color2: 'secondary',
-        button2: 'Отменить',
+        button2: 'Cancel',
       });
       setRevealAlert(true);
     }, []);
     const onReturn = async(choice) => {
         setRevealAlert(false);
-        if (choice==="Подтвердить") signOut();
+        if (choice==="Confirm") signOut();
         return router.push('/');
         
       }
